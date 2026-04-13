@@ -24,13 +24,13 @@ repository               : "MotoshiNishimura/MotoshiNishimura.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Motoshi"
   pronouns         : # example: "she/her"  
   bio              : "Snow/Ice Researcher @ Shinshu University"
   location         : "Matsumoto, Nagano, Japan"
-  employer         : "Shinshu University"
+  employer         : "Institute for Mountain Research, Shinshu University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nishimura.motoshi (at) shinshu-u.ac.jp" 
 
   # Academic websites
   academia         : # URL
