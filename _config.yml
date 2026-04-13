@@ -23,7 +23,7 @@ repository               : "MotoshiNishimura/MotoshiNishimura.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfilePic.png"
+  avatar           : "ProfilePic.jpg"
   name             : "Motoshi"
   pronouns         : # example: "she/her"  
   bio              : "Snow/Ice Researcher @ Shinshu University"
