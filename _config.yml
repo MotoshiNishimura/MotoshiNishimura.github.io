@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Motoshi's Homepage"
 title_separator          : "-"
 name                     : &name "Motoshi Nishimura"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Motoshi Nishimura is a researcher at Shinshu University, focusing on atmospheric and cryospheric sciences, particularly snow and ice processes in mountain and polar regions."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://MotoshiNishimura_academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,8 +27,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Matsumoto, Nagano, Japan"
+  employer         : "Shinshu University"
   uri              : # URL
   email            : "none@example.org" 
 
