@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D: Department of Mountain and Environmental Science, Interdisciplinary Graduate School of Science and Technology, Shinshu University, 2020
+  * Thesis Title: Surface Energy Balance in the Japanese Alps Regions
+  * Supervisor: Prof. Keisuke Suzuki
+* M.S. (Science): Jekyll, Shinshu University, 2017
+* B.S. (Science): Department of Environmental Science, Faculty of Science , Shinshu University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2024 - Present: Project Assistant Professor 
+  * Institute for Mountain Research, Shinshu University
+  * Duties includes: Maintaining AWS network in the Northern Japanese Alps Region
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2020 - March 2024: Postdoctoral Researcher 
+  * Arctic Environment Research Center, National Institute of Polar Research
+  * Duties includes: Arctic (Greenland) research
+  * Supervisor: Prof. Teruo Aoki
   
 Skills
 ======
@@ -55,6 +51,10 @@ Talks
   
 Teaching
 ======
+April, 2025 - Present: Advanced Laboratory of Environmental Science I (Shinshu University) 
+April, 2025 - Present: Basic Laboratory of Environmental Science II (Shinshu University) 
+April, 2024 - Present: System Analysis Seminar (Shinshu University) 
+April, 2024 - Present: Introduction to Geological and Biogeochemical Cycles II (Shinshu University) 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -62,3 +62,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Language
+======
+Japanese (mother tongue), English
