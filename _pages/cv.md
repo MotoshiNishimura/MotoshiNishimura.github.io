@@ -51,10 +51,10 @@ Talks
   
 Teaching
 ======
-April, 2025 - Present: Advanced Laboratory of Environmental Science I (Shinshu University) 
-April, 2025 - Present: Basic Laboratory of Environmental Science II (Shinshu University) 
-April, 2024 - Present: System Analysis Seminar (Shinshu University) 
-April, 2024 - Present: Introduction to Geological and Biogeochemical Cycles II (Shinshu University) 
+* April, 2025 - Present: Advanced Laboratory of Environmental Science I (Shinshu University) 
+* April, 2025 - Present: Basic Laboratory of Environmental Science II (Shinshu University) 
+* April, 2024 - Present: System Analysis Seminar (Shinshu University) 
+* April, 2024 - Present: Introduction to Geological and Biogeochemical Cycles II (Shinshu University) 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -65,4 +65,5 @@ Service and leadership
 
 Language
 ======
-Japanese (mother tongue), English
+* Japanese (mother tongue)
+* English
