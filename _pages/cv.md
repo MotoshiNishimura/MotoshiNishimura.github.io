@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D: Department of Mountain and Environmental Science, Interdisciplinary Graduate School of Science and Technology, Shinshu University, 2020
+* Ph.D.: Department of Mountain and Environmental Science, Interdisciplinary Graduate School of Science and Technology, Shinshu University, 2020
   * Thesis Title: Surface Energy Balance in the Japanese Alps Regions
   * Supervisor: Prof. Keisuke Suzuki
 * M.S. (Science): Jekyll, Shinshu University, 2017
