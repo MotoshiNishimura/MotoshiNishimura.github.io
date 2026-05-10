@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Let's explore the Nature"
+title: "Welcome to Motoshi's web page!"
 author_profile: true
 redirect_from: 
   - /about/
