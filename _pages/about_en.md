@@ -11,7 +11,6 @@ Driven by a fascination with the intricate interplay of vegetation, soil, and ge
 
 Contact: nishimura.motoshi (at) shinshu-u.ac.jp
 
-Keywords:
-Ice sheet, Glacier, Seasonal snow, Snow, Ice,
-Greenland, Alpine, mountain, Japanese Alps, 
-Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surface Energy Balance
+<Keywords>
+Targets: Greenland, Alpine, mountain, Japanese Alps, Ice sheet, Glacier, Seasonal snow, Snow, Ice,
+Fields : Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surface Energy Balance, Hydorological Process, Water Cycle
