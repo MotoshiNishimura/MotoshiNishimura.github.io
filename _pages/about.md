@@ -3,8 +3,8 @@ permalink: /
 title: "Welcome to Motoshi's web page!"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_en/
+  - /about_en.html
 ---
 * I am a researcher at Institute for Moutain Research, Shinshu University, specializing in the cryosphere and glaciology. My work focuses on the interactions between the atmosphere, hydrosphere, and cryosphere in mountain and polar regions, including the Greenland Ice Sheet.
 * My current projects investigate surface energy balance and the physical processes of snow from accumulation to melt. By tracing the hydrological cycle from precipitation to river runoff, I strive to develop a holistic understanding of mountain environments. Ultimately, I aim to achieve a comprehensive understanding of mountain ecosystems by examining the entire hydrological cycle, from precipitation to river discharge.
