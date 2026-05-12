@@ -10,3 +10,8 @@ My current projects investigate surface energy balance and the physical processe
 Driven by a fascination with the intricate interplay of vegetation, soil, and geology, I am committed to uncovering the fundamental principles that define the beauty and complexity of our natural world.
 
 Contact: nishimura.motoshi (at) shinshu-u.ac.jp
+
+Keywords:
+Ice sheet, Glacier, Seasonal snow, Snow, Ice,
+Greenland, Alpine, mountain, Japanese Alps, 
+Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surface Energy Balance
