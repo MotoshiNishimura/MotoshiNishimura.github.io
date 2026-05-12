@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about_en/
 title: "Welcome to Motoshi's HP!"
 author_profile: true
 redirect_from: 
