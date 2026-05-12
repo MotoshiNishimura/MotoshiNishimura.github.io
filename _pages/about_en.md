@@ -2,9 +2,6 @@
 permalink: /about_en/
 title: "Welcome to Motoshi's HP!"
 author_profile: true
-redirect_from: 
-  - /about_en/
-  - /about_en.html
 ---
 I am a researcher at Institute for Moutain Science, Shinshu University, specializing in the cryosphere and glaciology. My work focuses on the interactions between the atmosphere, hydrosphere, and cryosphere in mountain and polar regions, including the Greenland Ice Sheet.
 
