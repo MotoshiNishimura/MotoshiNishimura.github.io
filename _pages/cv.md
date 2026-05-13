@@ -9,61 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+学歴
 ======
-* Ph.D.: Department of Mountain and Environmental Science, Interdisciplinary Graduate School of Science and Technology, Shinshu University, 2020
-  * Thesis Title: Surface Energy Balance in the Japanese Alps Regions
-  * Supervisor: Prof. Keisuke Suzuki
-* M.S. (Science): Jekyll, Shinshu University, 2017
-* B.S. (Science): Department of Environmental Science, Faculty of Science , Shinshu University, 2015
+* 博士（学術）: 信州大学大学院総合工学系研究科 山岳地域環境科学専攻, 2020
+  * 博士論文題目: 中部山岳地域における表面熱収支
+  * 指導教官: 鈴木啓助
+* 修士 (理学): 信州大学理工学系研究科 地球生物圏科学専攻, 2017
+* 学士 (理学): 信州大学理学部 物質循環学科, 2015
+* 東京都立国分寺高等学校　2010年卒業
 
-Work experience
+職歴
 ======
-* April 2024 - Present: Project Assistant Professor 
-  * Institute for Mountain Research, Shinshu University
-  * Duties includes: Maintaining AWS network in the Northern Japanese Alps Region
+* 2024年4月 - 現在: 信州大学山岳科学研究所　特任助教 
+* 2020年4月 - 2024年3月: 国立局地研究所　特任研究員（PI: 青木輝夫）
 
-* April 2020 - March 2024: Postdoctoral Researcher 
-  * Arctic Environment Research Center, National Institute of Polar Research
-  * Duties includes: Arctic (Greenland) research
-  * Supervisor: Prof. Teruo Aoki
-  
-Skills
+担当授業
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025年6月   　　: 山岳科学概論A（静岡大学）
+* 2025年4月 - 現在: 物質循環実習Ⅰ（信州大学） 
+* 2025年4月 - 現在: 物質循環基礎実習Ⅱ（信州大学） 
+* 2024年4月 - 現在: システム解析学セミナー（信州大学） 
+* 2024年4月 - 現在: 物質循環学序説 II（信州大学）
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Detail]
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-* April, 2025 - Present: Advanced Laboratory of Environmental Science I (Shinshu University) 
-* April, 2025 - Present: Basic Laboratory of Environmental Science II (Shinshu University) 
-* April, 2024 - Present: System Analysis Seminar (Shinshu University) 
-* April, 2024 - Present: Introduction to Geological and Biogeochemical Cycles II (Shinshu University) 
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
-Language
-======
-* Japanese (mother tongue)
-* English
