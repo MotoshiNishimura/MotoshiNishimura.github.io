@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 職歴
 ======
 2024年4月 - 現在：信州大学山岳科学研究所　特任助教<br>
