@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "ProfilePic.jpg"
   name             : "Motoshi Nishimura (Ph.D.)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Snow/Ice Researcher @ Shinshu University"
   location         : "Matsumoto, Nagano, Japan"
   employer         : "Institute for Mountain Science, Shinshu University"
-  uri              : "https://www.shinshu-u.ac.jp/institution/ims2/" # URL
+  uri              : # URL
   email            : "nishimura.motoshi (at) shinshu-u.ac.jp" 
 
   # Academic websites
