@@ -12,7 +12,7 @@ Driven by a fascination with the intricate interplay of vegetation, soil, and ge
 
 Contact: nishimura.motoshi (at) shinshu-u.ac.jp
 
-[[Research interests](/interest_en/)]　[[Publications/presentaions](/publication/)]　[[English CV](/cv_en/)] 
+[[Research interests](/interest_en/)]　[[Publications/Presentaions](/publication/)]　[[English CV](/cv_en/)] 
 
 Keywords<br>
 Targets: Greenland, Alpine, mountain, Japanese Alps, Ice sheet, Glacier, Seasonal snow, Snow, Ice<br>
