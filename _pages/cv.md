@@ -31,5 +31,5 @@ redirect_from:
 * 2024年4月 - 現在：システム解析学セミナー（信州大学） 
 * 2024年4月 - 現在：物質循環学序説Ⅱ（信州大学）
 
-[Detail](https://researchmap.jp/motoshi)
+詳細は[researchmap](https://researchmap.jp/motoshi)をご覧ください。
   
