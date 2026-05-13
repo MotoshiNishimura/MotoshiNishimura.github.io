@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* April 2026 - Present: Guest Researcher 
+  * National Research Institute for Earth Science and Disaster Resilience
+
 * April 2024 - Present: Project Assistant Professor 
   * Institute for Mountain Research, Shinshu University
   * Duties includes: Maintaining AWS network in the Northern Japanese Alps Region
