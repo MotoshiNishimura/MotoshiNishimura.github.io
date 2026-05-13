@@ -44,4 +44,4 @@ Language
 * Japanese (mother tongue)
 * English
 
-[ [Back to the Top Page (/about_en/) ]
+[ [Back to the Top Page] (/about_en/) ]
