@@ -2,7 +2,7 @@
 title: "Surface energy and mass balance variations near the equilibrium line altitude on Qaanaaq Ice Cap, northwestern Greenland, 2012–2022"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-03-27_Surface_energy_and_mass_balance_variations_near_the_equilibrium_line_altitude_on_Qaanaaq_Ice_Cap,_northwestern_Greenland,_2012–2022
+permalink: /publication/20260327
 excerpt: 'This paper reaveals surface energy and mass balance at SIGMA-B site based on the in situ meteorological observation data.'
 date: 2026-03-27
 venue: 'Journal of Glaciology'
