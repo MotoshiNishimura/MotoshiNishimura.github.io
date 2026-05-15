@@ -1,5 +1,5 @@
 ---
-title: "20210428_Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates"
+title: "Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates"
 collection: publications
 category: manuscripts
 permalink: /publication/20210428
