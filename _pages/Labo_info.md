@@ -1,5 +1,5 @@
 ---
-permalink: /labo_info/
+permalink: /lab_info/
 title: "*Laboratory Information*"
 author_profile: true
 ---
