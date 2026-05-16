@@ -19,7 +19,6 @@ Study Targets  : Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surfa
 </span>
 
 <span style="font-size: 0.8em;">
-Address:<br>
-Institute for Mountain Science, Shinshu University; 3-1-1 Asahi, Matsumoto, Nagano, 390-8621, Japan<br>
-E-mail: nishimura.motoshi (at) shinshu-u.ac.jp
+Address: Institute for Mountain Science, Shinshu University; 3-1-1 Asahi, Matsumoto, Nagano, 390-8621, Japan<br>
+E-mail : nishimura.motoshi (at) shinshu-u.ac.jp
 </span>
