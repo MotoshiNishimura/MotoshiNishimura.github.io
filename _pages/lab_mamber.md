@@ -1,6 +1,6 @@
 ---
 permalink: /lab_member/
-title: "*Laboratory members*"
+title: "*Laboratory Members and Research Topics*"
 author_profile: true
 ---
 
