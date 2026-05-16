@@ -7,5 +7,5 @@ author_profile: true
 (編集中...)
 
 Keywords<br>
-Targets: Greenland, Alpine, mountain, Japanese Alps, Ice sheet, Glacier, Seasonal snow, Snow, Ice<br>
-Fields : Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surface Energy Balance, Hydorological Process, Water Cycle
+Research Fields: Greenland, Ice sheet, Glacier, Alpine region, Japanese Alps, Seasonal snow region<br>
+Study Targets : Snow/Ice surface mass balance, Surface energy balance, Snow accumulation/ablation process, Hydrological Process, Climate
