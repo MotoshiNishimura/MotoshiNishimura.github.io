@@ -24,5 +24,5 @@ B4 Seikou Fukazawa – *Clarification of orographic effects characterizing the s
 B4 Shizuki Mizoe – *Surface air temperature lapse rate on the slope of Mt. Norikura*<br>
 
 March 2024<br>
-M2 Hirokatsu Kaneko – *Variation and Meteorological Conditions　of　Cold-Air-Pool　Structure in Kamikochi*<br>
+M2 Hirokatsu Kaneko – *Variation and Meteorological Conditions of Cold-Air-Pool Structure in Kamikochi*<br>
 B4 Hikaru Kondo – *The distribution of snowfall amount and snow depth in Kamikochi, the Northern Japan Alps*<br>
