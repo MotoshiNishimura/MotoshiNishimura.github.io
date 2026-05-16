@@ -14,8 +14,8 @@ Driven by a fascination with the intricate interplay of vegetation, soil, and ge
 
 <span style="font-size: 0.8em;">
 Keywords<br>
-Targets: Greenland, Alpine, mountain, Japanese Alps, Ice sheet, Glacier, Seasonal snow, Snow, Ice<br>
-Fields : Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surface Energy Balance, Hydorological Process, Water Cycle
+Research Fields: Greenland, Alpine, mountain, Japanese Alps, Ice sheet, Glacier, Seasonal snow, Snow, Ice<br>
+Study Targets  : Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surface Energy Balance, Hydorological Process, Water Cycle
 </span>
 
 <span style="font-size: 0.8em;">
