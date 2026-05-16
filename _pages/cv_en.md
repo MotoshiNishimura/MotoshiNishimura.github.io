@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "*CV*"
 permalink: /cv_en/
 author_profile: true
 ---
-
-{% include base_path %}
 
 Education
 ======
