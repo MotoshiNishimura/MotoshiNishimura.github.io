@@ -8,8 +8,8 @@ Project Assistant Prof. Motoshi Nishimura<br>
 
 **［Student］**<br>
 __*Graduate Students*__<br>
-M1 Seikou Fukazawa: Spatiotemporal distribution of precipitation in the Japanese alpine region<br>
-M1 Shizuki Mizoe: Temporal variation in Snow Covered area in Mt. Norikura<br>
+M1 Seikou Fukazawa: *Spatiotemporal distribution of precipitation in the Japanese alpine region*<br>
+M1 Shizuki Mizoe: *Temporal variation in Snow Covered area in Mt. Norikura*<br>
 
 __*Undergraduate Students*__<br>
 B4 Yuki Hisada: A Study on the meteorological and glaciological environment at the SIGMA-A site in Northwestern Greenland<br>
