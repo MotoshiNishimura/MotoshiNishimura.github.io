@@ -7,7 +7,7 @@ author_profile: true
 Project Assistant Prof. Motoshi Nishimura<br>
 
 **［Student］**<br>
-*Graduate Students*<br>
+__*Graduate Students*__<br>
 M1 Seikou Fukazawa: Spatiotemporal distribution of precipitation in the Japanese alpine region<br>
 M1 Shizuki Mizoe: Temporal variation in Snow Covered area in Mt. Norikura<br>
 
