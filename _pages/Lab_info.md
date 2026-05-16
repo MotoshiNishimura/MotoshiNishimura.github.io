@@ -4,4 +4,4 @@ title: "*Laboratory Information*"
 author_profile: true
 ---
 
-[[Lab member(/lab_member/)]]
+[ [Lab member (/lab_member/)] ]
