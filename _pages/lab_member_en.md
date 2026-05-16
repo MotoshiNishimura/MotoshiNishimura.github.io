@@ -28,5 +28,5 @@ M2 Hirokatsu Kaneko – *Variation and Meteorological Conditions of Cold-Air-Poo
 B4 Hikaru Kondo – *The distribution of snowfall amount and snow depth in Kamikochi, the Northern Japan Alps*<br>
 
 <span style="font-size: 0.75em;">
-M: Master's course, B: Bachelor's course
+(M: Master's course, B: Bachelor's course)
 </span>
