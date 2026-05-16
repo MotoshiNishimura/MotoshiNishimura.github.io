@@ -7,11 +7,11 @@ author_profile: true
 Project Assistant Prof. Motoshi Nishimura<br>
 
 **［Student］**<br>
-Graduate Students<br>
+__*Graduate Students*__<br>
 M1 Seikou Fukazawa: Spatiotemporal distribution of precipitation in the Japanese alpine region<br>
 M1 Shizuki Mizoe: Temporal variation in Snow Covered area in Mt. Norikura<br>
 
-Undergraduate students<br>
+__*Undergraduate Students*__<br>
 B4 Yuki Hisada: A Study on the meteorological and glaciological environment at the SIGMA-A site in Northwestern Greenland<br>
 B4 Momoya Hiraga: Research on avalanches in the Japanese alpine region<br>
 B4 Yoshiaki Miwa: A study on impurities in snow surface at Kamikochi<br>
