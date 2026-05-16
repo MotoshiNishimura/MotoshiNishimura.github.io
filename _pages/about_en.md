@@ -1,6 +1,6 @@
 ---
 permalink: /about_en/
-title: "Welcome to Motoshi's HP!"
+title: "*Welcome to Motoshi's Page!*"
 author_profile: true
 ---
 [About Me]<br>
