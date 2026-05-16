@@ -13,7 +13,7 @@ Driven by a fascination with the intricate interplay of vegetation, soil, and ge
 [[Research interests](/interest_en/)]　[[Lab members](/lab_member_en/)]　[[Publications/Presentaions](/publications/)]　[[English CV](/cv_en/)] 
 
 <span style="font-size: 0.8em;">
-Keywords<br>
+__*Keywords*__<br>
 Research Fields: Greenland, Ice sheet, Glacier, Alpine region, Japanese Alps, Seasonal snow region<br>
 Study Targets  : Snow/Ice surface mass balance, Surface energy balance, Snow accumulation/ablation process, Hydrological Process, Climate
 </span>
