@@ -27,6 +27,6 @@ March 2024<br>
 M2 Hirokatsu Kaneko – *Variation and Meteorological Conditions of Cold-Air-Pool Structure in Kamikochi*<br>
 B4 Hikaru Kondo – *The distribution of snowfall amount and snow depth in Kamikochi, the Northern Japan Alps*<br>
 
-<span style="font-size: 0.75em;">
-(M: Master's course, B: Bachelor's course)
+<span style="font-size: 0.85em;">
+(Course grades, and M: Master's course, B: Bachelor's course)
 </span>
