@@ -3,9 +3,6 @@ permalink: /lab_member/
 title: "*Laboratory Members and Research Topics*"
 author_profile: true
 ---
-
-**【研究室メンバー】**<br>
-
 **［教員］**<br>
 特任助教 西村基志<br>
 
