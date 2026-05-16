@@ -30,3 +30,5 @@ B4 Hikaru Kondo – *The distribution of snowfall amount and snow depth in Kamik
 <span style="font-size: 0.85em;">
 (Course grades, and M: Master's course, B: Bachelor's course)
 </span>
+
+[ [TopPage](/about_en/) ]
