@@ -15,7 +15,7 @@ Our objective is to understand mountain environments, including the diverse comp
 
 <span style="font-size: 0.8em;">
 [Major Research outcomes]<br>
-- <b>Nishimura, M.*</b>b>, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. https://doi.org/10.34532/jasms.5.0_1.<br>
+- <b>Nishimura, M.*</b>, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. https://doi.org/10.34532/jasms.5.0_1.<br>
 - <b>Nishimura, M.*</b>, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. https://doi.org/10.1088/2515-7620/abfcae.
 </span>
 </p>
