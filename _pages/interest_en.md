@@ -1,6 +1,6 @@
 ---
 permalink: /interest_en/
-title: "My Research Interests"
+title: "__*Research Interests*__"
 author_profile: true
 ---
 
