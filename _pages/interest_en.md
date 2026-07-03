@@ -42,10 +42,10 @@ Driven by rising temperatures from climate change, the Arctic environment is cha
 </span>
 </p>
 
-[ [TopPage](/about_en/) ]
-
 <span style="font-size: 0.8em;">
 Keywords<br>
 Targets: Greenland, Alpine, mountain, Japanese Alps, Ice sheet, Glacier, Seasonal snow, Snow, Ice<br>
 Fields : Glaciology, Meteorology, Hydrology, Surface Mass Balance, Surface Energy Balance, Hydorological Process, Water Cycle
 </span>
+
+[ [TopPage](/about_en/) ]
