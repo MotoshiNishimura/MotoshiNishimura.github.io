@@ -5,7 +5,7 @@ author_profile: true
 ---
 <p>
 <span style="font-size: 1.1em; font-weight: bold; font-style: italic; text-decoration: underline;">
-Clarifying Cryospheric Snow and Ice Physical Processes Through Atmosphere-Snow/Ice Surface Interactions
+Clarifying Cryospheric Snow and Ice Physical Processes through Atmosphere-Snow/Ice Surface Interactions
 </span>
 </p>
 
