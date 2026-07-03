@@ -15,8 +15,8 @@ Our objective is to understand mountain environments, including the diverse comp
 
 <span style="font-size: 0.8em;">
 [Major Research outcomes]<br>
-- Nishimura, M.*, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. doi: 10.34532/jasms.5.0_1.<br>
-- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. doi: 10.1088/2515-7620/abfcae.
+- Nishimura, M.*, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. https://doi.org/10.34532/jasms.5.0_1.<br>
+- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. https://doi.org/10.1088/2515-7620/abfcae.
 </span>
 </p>
 
@@ -38,7 +38,7 @@ Driven by rising temperatures from climate change, the Arctic environment is cha
 [Major Research outcomes]<br>
 - Nishimura, M.*, Aoki, T., Niwano, M., Oyama, M., Matoba, S., Tanikawa, T., Yamaguchi, S., Shimada, R., and Suzuki, T. (2026): Surface energy and mass balance variations near the equilibrium line altitude on Qaanaaq Ice Cap, northwestern Greenland, 2012–2022. Journal of Glaciology, 72, e45. https://doi.org/10.1017/jog.2026.10159.<br>
 - Niwano, M*., Nishimura, M., Shimada, R., Yamasaki, T., Ohkawara, N., Sunako, S., Aoki, T., Hashimoto, A., Tanikawa, T., Matoba, S., and Yamaguchi, S. (2024): Field activities at the SIGMA-A site, northwestern Greenland ice sheet, 2023. Bulletin of Glaciological Research, 42, 61–68. https://doi.org/10.5331/bgr.24R03.<br>
-- Nishimura, M.*, Aoki, T., Niwano, M., Matoba, S., Tanikawa, T., Yamasaki, T., Yamaguchi, S., and Fujita, K. (2023): Quality-controlled meteorological datasets from SIGMA automatic weather stations in northwest Greenland, 2012–2020. Earth System Science Data, 15, 5207-5226. doi: 10.5194/essd-15-5207-2023.<br>
+- Nishimura, M.*, Aoki, T., Niwano, M., Matoba, S., Tanikawa, T., Yamasaki, T., Yamaguchi, S., and Fujita, K. (2023): Quality-controlled meteorological datasets from SIGMA automatic weather stations in northwest Greenland, 2012–2020. Earth System Science Data, 15, 5207-5226. https://doi.org/10.5194/essd-15-5207-2023.<br>
 </span>
 </p>
 
