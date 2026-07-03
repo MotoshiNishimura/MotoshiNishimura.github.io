@@ -6,7 +6,7 @@ author_profile: true
 
 __【雪氷圏における大気ー雪氷面の相互作用から雪氷物理プロセスの解明】__
 <p>
-__*1. 水循環的観点からの山岳環境システムの理解*__<br>
+*1. 水循環的観点からの山岳環境システムの理解*<br>
  山岳域の自然環境を構成する様々な要素を含む山岳環境の理解を目指しています。具体的には、山岳域で涵養される降水が地表面に貯蔵される積雪涵養プロセスから、融雪に伴って地表から土壌や地盤内へ地下水として涵養される水文プロセス、そして、それらの水供給によって育まれる動植物の生態システム、それらのサブシステムを統合的に理解し、「山岳環境システム」の維持形成メカニズムを理解することを最終的な目標として定め、特に積雪の涵養から消耗までの雪氷プロセス、を中心とした水循環過程に着目をして研究を進めています。
 </p>
 <p>
@@ -34,10 +34,10 @@ __*1. 水循環的観点からの山岳環境システムの理解*__<br>
 </p>
 <p>
  <span style="font-size: 0.8em;">
-（主な研究成果）
-- Nishimura, M.*, Aoki, T., Niwano, M., Oyama, M., Matoba, S., Tanikawa, T., Yamaguchi, S., Shimada, R., and Suzuki, T. (2026): Surface energy and mass balance variations near the equilibrium line altitude on Qaanaaq Ice Cap, northwestern Greenland, 2012–2022. Journal of Glaciology, 72, e45. https://doi.org/10.1017/jog.2026.10159.
-- Niwano, M*., Nishimura, M., Shimada, R., Yamasaki, T., Ohkawara, N., Sunako, S., Aoki, T., Hashimoto, A., Tanikawa, T., Matoba, S., and Yamaguchi, S. (2024): Field activities at the SIGMA-A site, northwestern Greenland ice sheet, 2023. Bulletin of Glaciological Research, 42, 61–68. https://doi.org/10.5331/bgr.24R03.
-- Nishimura, M.*, Aoki, T., Niwano, M., Matoba, S., Tanikawa, T., Yamasaki, T., Yamaguchi, S., and Fujita, K. (2023): Quality-controlled meteorological datasets from SIGMA automatic weather stations in northwest Greenland, 2012–2020. Earth System Science Data, 15, 5207-5226. doi: 10.5194/essd-15-5207-2023.
+（主な研究成果）<br>
+- Nishimura, M.*, Aoki, T., Niwano, M., Oyama, M., Matoba, S., Tanikawa, T., Yamaguchi, S., Shimada, R., and Suzuki, T. (2026): Surface energy and mass balance variations near the equilibrium line altitude on Qaanaaq Ice Cap, northwestern Greenland, 2012–2022. Journal of Glaciology, 72, e45. https://doi.org/10.1017/jog.2026.10159.<br>
+- Niwano, M*., Nishimura, M., Shimada, R., Yamasaki, T., Ohkawara, N., Sunako, S., Aoki, T., Hashimoto, A., Tanikawa, T., Matoba, S., and Yamaguchi, S. (2024): Field activities at the SIGMA-A site, northwestern Greenland ice sheet, 2023. Bulletin of Glaciological Research, 42, 61–68. https://doi.org/10.5331/bgr.24R03.<br>
+- Nishimura, M.*, Aoki, T., Niwano, M., Matoba, S., Tanikawa, T., Yamasaki, T., Yamaguchi, S., and Fujita, K. (2023): Quality-controlled meteorological datasets from SIGMA automatic weather stations in northwest Greenland, 2012–2020. Earth System Science Data, 15, 5207-5226. doi: 10.5194/essd-15-5207-2023.<br>
 </span>
 </p>
 
