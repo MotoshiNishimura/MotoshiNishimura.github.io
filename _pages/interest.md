@@ -4,12 +4,14 @@ title: "*Research Interests*"
 author_profile: true
 ---
 <p>
- <span style="font-size: 1.1em; font-weight: bold; font-style: italic;">
+ <span style="font-size: 1.1em; font-weight: bold; font-style: italic; text-decoration: underline;">
 【雪氷圏における大気ー雪氷面の相互作用から雪氷物理プロセスの解明】
  </span>
 </p>
 <p>
-<b>1. 水循環的観点からの山岳環境システムの理解</b><br>
+<span font-weight: bold; text-decoration: underline;">
+1. 水循環的観点からの山岳環境システムの理解
+</span><br>
 山岳域の自然環境を構成する様々な要素を含む山岳環境の理解を目指しています。具体的には、山岳域で涵養される降水が地表面に貯蔵される積雪涵養プロセスから、融雪に伴って地表から土壌や地盤内へ地下水として涵養される水文プロセス、そして、それらの水供給によって育まれる動植物の生態システム、それらのサブシステムを統合的に理解し、「山岳環境システム」の維持形成メカニズムを理解することを最終的な目標として定め、特に積雪の涵養から消耗までの雪氷プロセス、を中心とした水循環過程に着目をして研究を進めています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
