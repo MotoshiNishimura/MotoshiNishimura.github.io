@@ -9,5 +9,5 @@ venue: 'Tenki'
 slidesurl:
 paperurl: 'https://doi.org/10.24761/tenki.67.7_395'
 bibtexurl: '/files/20200313_tenki_67_395_en.bib'
-citation: 'Uehara, G., Nishimura, M., Sasaki, A., and Suzuki, K. (2020): The Influence of Snow Cover for the Local Wind System on the East Slope of Mt. Norikura. Tenki, 67, 7, 395-406. doi: 10.24761/tenki.67.7_395'
+citation: 'Uehara, G., Nishimura, M., Sasaki, A., and Suzuki, K. (2020): The Influence of Snow Cover for the Local Wind System on the East Slope of Mt. Norikura. Tenki, 67, 7, 395-406. https://doi.org/10.24761/tenki.67.7_395'
 ---
