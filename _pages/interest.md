@@ -13,8 +13,8 @@ author_profile: true
 山岳域の自然環境を構成する様々な要素を含む山岳環境の理解を目指しています。具体的には、山岳域で涵養される降水が地表面に貯蔵される積雪涵養プロセスから、融雪に伴って地表から土壌や地盤内へ地下水として涵養される水文プロセス、そして、それらの水供給によって育まれる動植物の生態システム、それらのサブシステムを統合的に理解し、「山岳環境システム」の維持形成メカニズムを理解することを最終的な目標として定め、特に積雪の涵養から消耗までの雪氷プロセス、を中心とした水循環過程に着目をして研究を進めています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
-- Nishimura, M.*, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. [Link](https://doi.org/10.34532/jasms.5.0_1.)<br>
-- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. [Link] (https://doi.org/10.1088/2515-7620/abfcae.)
+- Nishimura, M.*, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. [Link](https://doi.org/10.34532/jasms.5.0_1)<br>
+- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. [Link] (https://doi.org/10.1088/2515-7620/abfcae)
 </span>
  </p>
  
@@ -23,7 +23,7 @@ author_profile: true
 雪氷学的、水文学的視点から熱収支の概念に基づく諸現象のプロセス研究を進めています。地球表面における水循環過程を理解するためには、地表面における積雪融解や水の相変化に伴う水の移動（蒸発、凝結、昇華など）を支配する地表面熱収支の議論が不可欠です。現地で得られた気象データや積雪物理状態のデータを用いてそれらを定量する、あるいは、それらを支配する要因を明らかにする研究を行なっています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
-- Aoki, T.*, Hachikubo, A., Nishimura, M., Hori, M., Niwano, M., Tanikawa, T., Sugiura, K., Inoue, R., Yamaguchi, S., Matoba, S., Shimada, R., Ishimoto, H., and Gallet, J. C. (2023): Development of a Handheld Integrating Sphere Snow Grain Sizer (HISSGraS). Annals of Glaciology, 65, e10. https://doi.org/10.1017/aog.2023.72.
+- Aoki, T.*, Hachikubo, A., Nishimura, M., Hori, M., Niwano, M., Tanikawa, T., Sugiura, K., Inoue, R., Yamaguchi, S., Matoba, S., Shimada, R., Ishimoto, H., and Gallet, J. C. (2023): Development of a Handheld Integrating Sphere Snow Grain Sizer (HISSGraS). Annals of Glaciology, 65, e10. [Link](https://doi.org/10.1017/aog.2023.72.)
 </span>
 </p>
  
