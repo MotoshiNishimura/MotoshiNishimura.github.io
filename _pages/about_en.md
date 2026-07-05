@@ -19,6 +19,6 @@ Study Targets  : Snow/Ice surface mass balance, Surface energy balance, Snow acc
 </span>
 
 <span style="font-size: 0.8em;">
-Address: Institute for Mountain Science, Shinshu University; 3-1-1 Asahi, Matsumoto, Nagano, 390-8621, Japan　<a href="https://maps.app.goo.gl/xdoriRamYbPQh4BU7" target="_blank">[Google Map]</a><br>
+Address: Institute for Mountain Science, Shinshu University; 3-1-1 Asahi, Matsumoto, Nagano, 390-8621, Japan　<a href="https://maps.app.goo.gl/aosAgo97HB9L6Dyg6" target="_blank">[Google Map]</a><br>
 E-mail : nishimura.motoshi (at) shinshu-u.ac.jp
 </span>
