@@ -13,8 +13,8 @@ author_profile: true
 山岳域の自然環境を構成する様々な要素を含む山岳環境の理解を目指しています。具体的には、山岳域で涵養される降水が地表面に貯蔵される積雪涵養プロセスから、融雪に伴って地表から土壌や地盤内へ地下水として涵養される水文プロセス、そして、それらの水供給によって育まれる動植物の生態システム、それらのサブシステムを統合的に理解し、「山岳環境システム」の維持形成メカニズムを理解することを最終的な目標として定め、特に積雪の涵養から消耗までの雪氷プロセス、を中心とした水循環過程に着目をして研究を進めています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
-- Nishimura, M.*, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. [Link](https://doi.org/10.34532/jasms.5.0_1)<br>
-- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. [Link](https://doi.org/10.1088/2515-7620/abfcae)
+- Nishimura, M.*, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. [Paper Link](https://doi.org/10.34532/jasms.5.0_1)<br>
+- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. [Paper Link](https://doi.org/10.1088/2515-7620/abfcae)
 </span>
  </p>
  
@@ -23,7 +23,7 @@ author_profile: true
 雪氷学的、水文学的視点から熱収支の概念に基づく諸現象のプロセス研究を進めています。地球表面における水循環過程を理解するためには、地表面における積雪融解や水の相変化に伴う水の移動（蒸発、凝結、昇華など）を支配する地表面熱収支の議論が不可欠です。現地で得られた気象データや積雪物理状態のデータを用いてそれらを定量する、あるいは、それらを支配する要因を明らかにする研究を行なっています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
-- Aoki, T.*, Hachikubo, A., Nishimura, M., Hori, M., Niwano, M., Tanikawa, T., Sugiura, K., Inoue, R., Yamaguchi, S., Matoba, S., Shimada, R., Ishimoto, H., and Gallet, J. C. (2023): Development of a Handheld Integrating Sphere Snow Grain Sizer (HISSGraS). Annals of Glaciology, 65, e10. [Link](https://doi.org/10.1017/aog.2023.72)
+- Aoki, T.*, Hachikubo, A., Nishimura, M., Hori, M., Niwano, M., Tanikawa, T., Sugiura, K., Inoue, R., Yamaguchi, S., Matoba, S., Shimada, R., Ishimoto, H., and Gallet, J. C. (2023): Development of a Handheld Integrating Sphere Snow Grain Sizer (HISSGraS). Annals of Glaciology, 65, e10. [Paper Link](https://doi.org/10.1017/aog.2023.72)
 </span>
 </p>
  
@@ -32,9 +32,9 @@ author_profile: true
 気候変動に伴う気温上昇によって北極域の環境は著しく変化しています。そのなかでもグリーンランド氷床とその縁辺部に位置する氷河の融解は加速しており、その実態把握と影響評価、およびそのメカニズムの詳細な把握は急務です。現地で観測された気象データを用いて、それらを明らかにする研究を行なっています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
-- Nishimura, M.*, Aoki, T., Niwano, M., Oyama, M., Matoba, S., Tanikawa, T., Yamaguchi, S., Shimada, R., and Suzuki, T. (2026): Surface energy and mass balance variations near the equilibrium line altitude on Qaanaaq Ice Cap, northwestern Greenland, 2012–2022. Journal of Glaciology, 72, e45. [Link](https://doi.org/10.1017/jog.2026.10159)<br>
-- Niwano, M*., Nishimura, M., Shimada, R., Yamasaki, T., Ohkawara, N., Sunako, S., Aoki, T., Hashimoto, A., Tanikawa, T., Matoba, S., and Yamaguchi, S. (2024): Field activities at the SIGMA-A site, northwestern Greenland ice sheet, 2023. Bulletin of Glaciological Research, 42, 61–68. [Link](https://doi.org/10.5331/bgr.24R03)<br>
-- Nishimura, M.*, Aoki, T., Niwano, M., Matoba, S., Tanikawa, T., Yamasaki, T., Yamaguchi, S., and Fujita, K. (2023): Quality-controlled meteorological datasets from SIGMA automatic weather stations in northwest Greenland, 2012–2020. Earth System Science Data, 15, 5207-5226. [Link](https://doi.org/10.5194/essd-15-5207-2023)<br>
+- Nishimura, M.*, Aoki, T., Niwano, M., Oyama, M., Matoba, S., Tanikawa, T., Yamaguchi, S., Shimada, R., and Suzuki, T. (2026): Surface energy and mass balance variations near the equilibrium line altitude on Qaanaaq Ice Cap, northwestern Greenland, 2012–2022. Journal of Glaciology, 72, e45. [Paper Link](https://doi.org/10.1017/jog.2026.10159)<br>
+- Niwano, M*., Nishimura, M., Shimada, R., Yamasaki, T., Ohkawara, N., Sunako, S., Aoki, T., Hashimoto, A., Tanikawa, T., Matoba, S., and Yamaguchi, S. (2024): Field activities at the SIGMA-A site, northwestern Greenland ice sheet, 2023. Bulletin of Glaciological Research, 42, 61–68. [Paper Link](https://doi.org/10.5331/bgr.24R03)<br>
+- Nishimura, M.*, Aoki, T., Niwano, M., Matoba, S., Tanikawa, T., Yamasaki, T., Yamaguchi, S., and Fujita, K. (2023): Quality-controlled meteorological datasets from SIGMA automatic weather stations in northwest Greenland, 2012–2020. Earth System Science Data, 15, 5207-5226. [Paper Link](https://doi.org/10.5194/essd-15-5207-2023)<br>
 </span>
 </p>
 
