@@ -12,7 +12,7 @@ Seikou Fukazawa (M1) - *Spatiotemporal distribution of precipitation in the Japa
 Shizuki Mizoe (M1) – *Temporal variation in Snow Covered area in Mt. Norikura*<br>
 
 __*Undergraduate Students*__<br>
-Yuki Hisada (B4) – *A Study on the meteorological and glaciological environment at the SIGMA-A site in Northwestern Greenland*<br>
+Yuki Hisada (B4) – *A Study on the meteorological and glaciological environment at the SIGMA-A site in northwestern Greenland*<br>
 Momoya Hiraga (B4) – *Research on avalanches in the Japanese alpine region*<br>
 Yoshiaki Miwa (B4) – *A study on impurities in snow surface at Kamikochi*<br>
 Kosuke Wakimoto (B4) – *A study on differences in meteorological conditions between forested and open areas in Kamikochi*<br>
