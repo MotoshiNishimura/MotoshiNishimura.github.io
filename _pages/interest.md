@@ -14,7 +14,7 @@ author_profile: true
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
 - Nishimura, M.*, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. <a href="https://doi.org/10.34532/jasms.5.0_1" target="_blank">[Paper Link]</a><br>
-- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. <a href="https://doi.org/10.1088/2515-7620/abfcae" target="_blank">[Paper Link]</a>)
+- Nishimura, M.*, Sasaki, A., and Suzuki, K. (2021): Surface energy balance of snow cover in the Japanese Alps is similar to that in continental Alpine climates. Environmental Research Communications, 3 (051003), 1–16. <a href="https://doi.org/10.1088/2515-7620/abfcae" target="_blank">[Paper Link]</a>
  
 </span>
  </p>
@@ -24,7 +24,7 @@ author_profile: true
 雪氷学的、水文学的視点から熱収支の概念に基づく諸現象のプロセス研究を進めています。地球表面における水循環過程を理解するためには、地表面における積雪融解や水の相変化に伴う水の移動（蒸発、凝結、昇華など）を支配する地表面熱収支の議論が不可欠です。現地で得られた気象データや積雪物理状態のデータを用いてそれらを定量する、あるいは、それらを支配する要因を明らかにする研究を行なっています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
-- Aoki, T.*, Hachikubo, A., Nishimura, M., Hori, M., Niwano, M., Tanikawa, T., Sugiura, K., Inoue, R., Yamaguchi, S., Matoba, S., Shimada, R., Ishimoto, H., and Gallet, J. C. (2023): Development of a Handheld Integrating Sphere Snow Grain Sizer (HISSGraS). Annals of Glaciology, 65, e10. [Paper Link](https://doi.org/10.1017/aog.2023.72)
+- Aoki, T.*, Hachikubo, A., Nishimura, M., Hori, M., Niwano, M., Tanikawa, T., Sugiura, K., Inoue, R., Yamaguchi, S., Matoba, S., Shimada, R., Ishimoto, H., and Gallet, J. C. (2023): Development of a Handheld Integrating Sphere Snow Grain Sizer (HISSGraS). Annals of Glaciology, 65, e10. <a href="https://doi.org/10.1017/aog.2023.72" target="_blank">[Paper Link]</a>
 </span>
 </p>
  
