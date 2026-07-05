@@ -4,7 +4,7 @@ title: "*Laboratory Members and Research Topics*"
 author_profile: true
 ---
 **［PI］**<br>
-Project Assistant Prof. Motoshi Nishimura<br>
+Motoshi Nishimura (Project Assistant Prof.)<br>
 
 **［Student］**<br>
 __*Graduate Students*__<br>
