@@ -23,7 +23,7 @@ Our objective is to understand mountain environments, including the diverse comp
 <p>
 <b>2. Exploring Phenomenological Processes Based on the Concept of Heat Balance</b><br>
 From glaciological and hydrological viewpoints, our research focuses on the processes of various phenomena based on the concept of heat balance. Understanding the Earth's surface water cycle requires an essential discussion of the surface heat balance, which governs snowmelt and water movement driven by phase changes (e.g., evaporation, condensation, and sublimation). Our studies aim to quantify these mechanisms and clarify their driving factors by utilizing field-measured meteorological data and snow physical state data.<br>
-
+  
 <span style="font-size: 0.8em;">
 [Major Research outcomes]<br>
 - Aoki, T.*, Hachikubo, A., <b><u>Nishimura, M.</u></b>, Hori, M., Niwano, M., Tanikawa, T., Sugiura, K., Inoue, R., Yamaguchi, S., Matoba, S., Shimada, R., Ishimoto, H., and Gallet, J. C. (2023): Development of a Handheld Integrating Sphere Snow Grain Sizer (HISSGraS). Annals of Glaciology, 65, e10. <a href="https://doi.org/10.1017/aog.2023.72" target="_blank">[Paper Link]</a><br>
