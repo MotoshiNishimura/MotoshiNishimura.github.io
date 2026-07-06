@@ -33,5 +33,5 @@ redirect_from:
 * 東京都立国分寺高等学校　2010年卒業
 
 
-詳細は[researchmap](https://researchmap.jp/motoshi)をご覧ください。
+詳細は<a href="https://researchmap.jp/motoshi" stat="_blink" [Research Map]</a>をご覧ください。
   
