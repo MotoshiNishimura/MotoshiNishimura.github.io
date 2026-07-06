@@ -45,4 +45,6 @@ Language
 * Japanese (mother tongue)
 * English
 
+For more details, please see <a href="https://researchmap.jp/motoshi?lang=en" target="_blank">here</a>
+
 [ [TopPage](/about_en/) ]
