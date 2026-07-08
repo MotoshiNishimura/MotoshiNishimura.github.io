@@ -10,7 +10,7 @@ author_profile: true
 </p>
 <p>
 <b>1. 水循環的観点からの山岳環境システムの理解</b><br>
-山岳域の自然環境を構成する様々な要素を含む山岳環境の理解を目指しています。具体的には、山岳域で涵養される降水が地表面に貯蔵される積雪涵養プロセスから、融雪に伴って地表から土壌や地盤内へ地下水として涵養される水文プロセス、そして、それらの水供給によって育まれる動植物の生態システムを含めたサブシステム群を統合的に理解することで「山岳環境システム」の維持形成メカニズムを解明することを最終的な目標としています。その理解のために、当研究室では特に積雪の涵養から消耗までの雪氷プロセスを中心とした水循環過程に着目をして研究を進めています。<br>
+山岳域の自然環境は様々な要素（大気、水、土壌、動植物）で構成されており、その山岳環境全体の包括的な理解を目指しています。具体的には、山岳域で涵養される降水が地表面に貯蔵される積雪涵養プロセスから、融雪に伴って地表から土壌や地盤内へ地下水として涵養される水文プロセス、そして、それらの水供給によって育まれる動植物の生態システムを含めたサブシステム群を統合的に理解することで「山岳環境システム」の維持形成メカニズムを解明することを最終的な目標としています。その理解のために、当研究室では特に積雪の涵養から消耗までの雪氷プロセスを中心とした水循環過程に着目をして研究を進めています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
 - <b><u>Nishimura, M.*</u></b>, Tanaka, R., Sasaki, A., and Suzuki, K. (2022): Spatiotemporal variations of snow cover in Mt. Norikura, the Northern Japanese Alps. Japanese Journal of Mountain Research, 5, 1–12. <a href="https://doi.org/10.34532/jasms.5.0_1" target="_blank">[Paper Link]</a><br>
@@ -29,7 +29,7 @@ author_profile: true
  
 <p>
 <b>3. グリーンランドにおける氷河表面プロセス研究</b><br>
-気候変動に伴う気温上昇によって北極域の環境は著しく変化しています。そのなかでもグリーンランド氷床とその縁辺部に位置する氷河の融解は加速しており、その実態把握と影響評価、およびそのメカニズムの詳細な把握は急務です。現地で観測された気象データと現地観測で得られたデータを用いて、それらを明らかにする研究を行なっています。<br>
+気候変動に伴う気温上昇によって北極域の環境は著しく変化しています。そのなかでもグリーンランド氷床とその縁辺部に位置する氷河の融解は加速しており、その実態把握と影響評価、およびそのメカニズムの詳細な把握は急務です。主に現地観測で得られたデータを用いて、それらを明らかにする研究を行なっています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
 - <b><u>Nishimura, M.*</u></b>, Aoki, T., Niwano, M., Oyama, M., Matoba, S., Tanikawa, T., Yamaguchi, S., Shimada, R., and Suzuki, T. (2026): Surface energy and mass balance variations near the equilibrium line altitude on Qaanaaq Ice Cap, northwestern Greenland, 2012–2022. Journal of Glaciology, 72, e45. <a href="https://doi.org/10.1017/jog.2026.10159" target="_blank">[Paper Link]</a>)<br>
@@ -52,6 +52,6 @@ author_profile: true
 
 <span style="font-size: 0.8em;">
 __*Keywords*__<br>
-Research Fields: Greenland, Ice sheet, Glacier, Alpine region, Japanese Alps, Seasonal snow region<br>
-Study Targets : Snow/Ice surface mass balance, Surface energy balance, Snow accumulation/ablation process, Hydrological Process, Climate
+Research Fields: グリーンランド, 氷床, 氷河, 山岳域, 日本アルプス, 季節積雪域<br>
+Study Targets : 雪氷表面質量収支, 表面熱収支, 積雪涵養/消耗プロセス, 水循環プロセス, 気候
 </span>
