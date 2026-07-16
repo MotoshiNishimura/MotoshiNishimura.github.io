@@ -1,6 +1,6 @@
 ---
 permalink: /interest/
-title: "*Research Interests*"
+title: "*3. グリーンランドにおける氷河表面プロセス研究*"
 author_profile: true
 ---
 <p>
