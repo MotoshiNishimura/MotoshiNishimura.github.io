@@ -1,6 +1,6 @@
 ---
 permalink: /interest1/
-title: "*水循環的観点からの山岳環境システムの理解*"
+title: "*Research Interest"
 author_profile: true
 ---
 <p>
