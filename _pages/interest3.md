@@ -1,16 +1,15 @@
 ---
 permalink: /interest3/
-title: "*3. グリーンランドにおける氷河表面プロセス研究*"
+title: "*Research Interest*"
 author_profile: true
 ---
 <p>
  <span style="font-size: 1.1em; font-weight: bold; font-style: italic; text-decoration: underline;">
-3. グリーンランドにおける氷河表面プロセス研究
+グリーンランドにおける氷河表面プロセス研究
  </span>
 </p>
 
 <p>
-<b>3. グリーンランドにおける氷河表面プロセス研究</b><br>
 気候変動に伴う気温上昇によって北極域の環境は著しく変化しています。そのなかでもグリーンランド氷床とその縁辺部に位置する氷河の融解は加速しており、その実態把握と影響評価、およびそのメカニズムの詳細な把握は急務です。主に現地観測で得られたデータを用いて、それらを明らかにする研究を行なっています。<br>
  <span style="font-size: 0.8em;">
 （主な研究成果）<br>
