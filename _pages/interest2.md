@@ -1,6 +1,6 @@
 ---
 permalink: /interest2/
-title: "*Research Interests*"
+title: "*2. 熱収支的観点に基づく諸現象のプロセス探究*"
 author_profile: true
 ---
 <p>
