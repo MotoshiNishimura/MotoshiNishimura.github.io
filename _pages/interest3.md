@@ -1,5 +1,5 @@
 ---
-permalink: /interest/
+permalink: /interest3/
 title: "*3. グリーンランドにおける氷河表面プロセス研究*"
 author_profile: true
 ---
