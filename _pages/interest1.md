@@ -1,6 +1,6 @@
 ---
 permalink: /interest1/
-title: "*Research Interest"
+title: "*Research Interest*"
 author_profile: true
 ---
 <p>
