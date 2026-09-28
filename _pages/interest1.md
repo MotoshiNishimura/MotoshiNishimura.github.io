@@ -5,7 +5,7 @@ author_profile: true
 ---
 <p>
  <span style="font-size: 1.1em; font-weight: bold; font-style: italic; text-decoration: underline;">
-【水循環的観点からの山岳環境システムの理解】
+【山岳環境システムの水循環的観点からの理解】
  </span>
 </p>
 <p>
